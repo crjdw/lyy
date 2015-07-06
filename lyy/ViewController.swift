@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func cehua(sender: AnyObject) {
-        println("============================")
+        println("==========开始==========")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
